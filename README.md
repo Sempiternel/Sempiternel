@@ -1,7 +1,7 @@
 <h1 align="center">
   Sempiternel
   <br />
-  <img style="border-radius: 10px;width: 20%;" src="https://cdn.discordapp.com/avatars/678024464289628160/8c494994e126990aa89b9e4c7179f564.webp?size=4096" alt="Sempiternel">
+  <img width="20%" style="border-radius: 10px;" src="https://cdn.discordapp.com/avatars/678024464289628160/8c494994e126990aa89b9e4c7179f564.webp?size=4096" alt="Sempiternel">
 </h1>
 <h4 align="center">
 	Music, Moderation, Role Management, Logging, Utility
